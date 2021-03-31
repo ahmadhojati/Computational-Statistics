@@ -1,6 +1,6 @@
-# Computational-Statistics
+# Computational Statistics
 
-### This file contains examples of optimization, integration and simulation, and density estimation and smoothing algorithms and methods which are common in computational statistics.
+#### This file contains examples of optimization, integration and simulation, and density estimation and smoothing algorithms and methods which are common in computational statistics.
 #### Below is a list of algorithms and methods we brought in this repository
 
 1. Bisection_algorithm
